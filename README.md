@@ -5,7 +5,7 @@
 
 <br>
 
-***Index:***
+### **Index:**
 
 1. [Overview](https://github.com/unicorn-yh/Mathematical-Contest-In-Modeling/tree/main#overview)
 2. [Q1: Counting apples](https://github.com/unicorn-yh/Mathematical-Contest-In-Modeling/tree/main#question-1-counting-apples)
