@@ -72,7 +72,7 @@ We have designed the **Tri-Harmonize Augmentation** and **Contours Detection** t
 
 2. ***Salt and Pepper Noise.*** In image processing, salt and pepper noise is added to enhance image quality by removing noise and enhancing the robustness of algorithms. Firstly, a noise-free original image is required for processing. Then, an appropriate salt and pepper noise density $p$ which will decide the proportion of pixels in the image that will be affected by noise should be determined. Then, each pixel $I(x,y)$ in the original image will be generated a random number r between 0 and 1 . 
 
-   ![image-20231207211357922](./typora/image-20231207211357922.png)
+   ![image-20231207220747995](./typora/image-20231207220747995.png)
 
 <br>
 
