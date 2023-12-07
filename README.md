@@ -7,11 +7,12 @@
 
 Index:
 
-1. Q1 Counting apples
-2. Q2 Estimating the positions of apples
-3. Q3 Estimating the maturity state of apples
-4. Q4 Estimating the masses of apples
-5. Q5 The recognition of apples
+1. Overview
+2. Q1 Counting apples
+3. Q2 Estimating the positions of apples
+4. Q3 Estimating the maturity state of apples
+5. Q4 Estimating the masses of apples
+6. Q5 The recognition of apples
 
 <br>
 
@@ -35,7 +36,7 @@ Index:
 
 <br>
 
-## Q1: Counting apples
+## Question 1: Counting apples
 
 *Data used: Attachment 1*
 
@@ -59,7 +60,7 @@ We have designed the **Tri-Harmonize Augmentation** and **Contours Detection** t
 
 <br>
 
-## Q2: Estimating the positions of apples
+## Question 2: Estimating the positions of apples
 
 *Data used: Attachment 1*
 
@@ -69,7 +70,7 @@ We have designed the **Tri-Harmonize Augmentation** and **Contours Detection** t
 
 <br>
 
-## Q3: Estimating the maturity of apples
+## Question 3: Estimating the maturity of apples
 
 *Data used: Attachment 1*
 
@@ -77,7 +78,7 @@ We have designed the **Tri-Harmonize Augmentation** and **Contours Detection** t
 
 <br>
 
-## Q4: Estimating the masses of apples
+## Question 4: Estimating the masses of apples
 
 *Data used: Attachment 1*
 
@@ -85,7 +86,7 @@ We manipulate the RGB values of pixels in each image to calculate the **two-dime
 
 <br>
 
-## Q5: The recognition of apples 
+## Question 5: The recognition of apples 
 
 *Data used: Attachment 2 & 3*
 
