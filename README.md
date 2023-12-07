@@ -94,7 +94,9 @@ We have designed the **Tri-Harmonize Augmentation** and **Contours Detection** t
 
    - **Final Convergence Classification:** Repeat step (1) to (3) until convergence. After the segmentation in step (3) , each pixel's belonging to either the object GMM or the background GMM changes, so each pixel's $k_n$ changes, and therefore the GMM changes too. Thus, each iteration interactively optimizes both the GMM model and the segmentation result. Moreover, since steps (1) to (3) are all processes of energy reduction, it ensures that the iterative process will converge.
 
-     
+     *Flowchart illustrated is as below:* 
+
+     ![8024f45286786aa88e33e8fd1418745](./typora/8024f45286786aa88e33e8fd1418745.png)
 
 ![image-20231207213225655](./typora/image-20231207213225655.png)
 
