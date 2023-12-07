@@ -1,7 +1,7 @@
 # 2023-Asia-Pacific-Mathematical-Contest-in-Modeling
 **Our paper:** [APMCM-paper.pdf](https://github.com/unicorn-yh/2023-Asia-Pacific-Mathematical-Contest-in-Modeling/blob/main/APMCM-paper.pdf)
 
-**Problem A Selected:**  [2023 APMCM Problem A.pdf](https://github.com/unicorn-yh/2023-Asia-Pacific-Mathematical-Contest-in-Modeling/blob/main/Problem-Analysis/2023 APMCM Problem A.pdf)
+**Problem A Selected:**  [2023 APMCM Problem A.pdf](https://github.com/unicorn-yh/2023-Asia-Pacific-Mathematical-Contest-in-Modeling/blob/main/Problem-Analysis/2023-APMCM-Problem-A.pdf)
 
 <br>
 
