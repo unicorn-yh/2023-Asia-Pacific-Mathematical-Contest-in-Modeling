@@ -3,6 +3,8 @@
 
 **Problem A Selected:**  [2023 APMCM Problem A.pdf](https://github.com/unicorn-yh/2023-Asia-Pacific-Mathematical-Contest-in-Modeling/blob/main/Problem-Analysis/2023-APMCM-Problem-A.pdf)
 
+**Topic:** 2023 APMCM Problem A: Image Recognition of Fruit Picking Robots
+
 <br>
 
 ### **Index:**
